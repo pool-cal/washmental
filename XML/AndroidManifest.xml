@@ -18,7 +18,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme.NoActionBar">
+        android:theme="@style/AppTheme.NoActionBar"><!--여기 부분 스튜디오에서는 툴바 삭제가 안보인다고 함 애뮬로 돌려봐야 할 듯-->
 
         <activity
             android:name="MainActivity"
